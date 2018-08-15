@@ -1,0 +1,25 @@
+1517986039906	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1517986039916	geckodriver	INFO	Listening on 127.0.0.1:14332
+1517986040440	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "R:\\Temp\\rust_mozprofile.AhLNiU7Wog1s"
+1517986041267	Marionette	INFO	Enabled via --marionette
+1517986043084	Marionette	INFO	Listening on port 14338
+1517986043206	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517986362060	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1517986362071	geckodriver	INFO	Listening on 127.0.0.1:14829
+1517986362612	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "R:\\Temp\\rust_mozprofile.aN8DKOFcOltn"
+1517986363483	Marionette	INFO	Enabled via --marionette
+1517986365290	Marionette	INFO	Listening on port 14834
+1517986365413	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517986459294	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1517986459304	geckodriver	INFO	Listening on 127.0.0.1:15165
+1517986459827	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "R:\\Temp\\rust_mozprofile.T7y8UNax5vZO"
+1517986460668	Marionette	INFO	Enabled via --marionette
+1517986462432	Marionette	INFO	Listening on port 15170
+1517986462549	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://s1.bdstatic.com/r/www/cache/static/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1517986466056	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1517986466068	geckodriver	INFO	Listening on 127.0.0.1:15218
+1517986466595	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "R:\\Temp\\rust_mozprofile.Wj169z618gYO"
+1517986467440	Marionette	INFO	Enabled via --marionette
+1517986469240	Marionette	INFO	Listening on port 15223
+1517986469439	Marionette	WARN	TLS certificate errors will be ignored for this session
